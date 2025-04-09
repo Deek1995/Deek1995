@@ -23,7 +23,7 @@ I'm a **full-stack engineer** who's all about building cool, impactful projects.
 I love talking about tech, projects, or even just random ideas! Feel free to hit me up if you want to collaborate or just have a fun chat.
 
 ## 🌟 My Projects:
-- [🚀 Full-Stack E-commerce App](https://github.com/Deek1995/amazon-frontend)
+- [🚀 E-commerce App](https://github.com/Deek1995/amazon-frontend)
 - [📅 Task Management App](https://github.com/Deek1995/task-management-app-frontend)
 
 ---
